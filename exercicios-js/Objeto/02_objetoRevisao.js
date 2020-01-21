@@ -49,4 +49,5 @@ delete carro.condutores
 delete carro.proprietario.endereco
 delete carro.calcularValorSeguro
 
+
 console.log(carro)
